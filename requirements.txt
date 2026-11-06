@@ -1,0 +1,11 @@
+# CDA 一级认证教材 · 商业数据分析实验（Python 迁移版）
+# 已验证版本（Windows / Python 3.12）
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+openpyxl>=3.1
+networkx>=3.2

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 数据（体积大或可重新生成，按需提交）
+data/raw/*.csv
+data/raw/*.xlsx
+!data/raw/.gitkeep
+data/processed/*.db
+data/processed/*.sqlite
+
+# 输出（可由脚本重新生成）
+output/figures/*.png
+output/tables/*.csv
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
